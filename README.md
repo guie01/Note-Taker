@@ -17,8 +17,8 @@
   <a name="installation"></a>
   ## Installation.
   
-  Refer to link: https://secure-savannah-80129.herokuapp.com/.
-  
+  No major installation needed to run the app.
+    
   <a name="usage"></a>
   ## Usage
   
